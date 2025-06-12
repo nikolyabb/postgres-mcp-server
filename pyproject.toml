@@ -1,0 +1,7 @@
+[project]
+name = "postgres-mcp-server"
+version = "0.1.0"
+description = "MCPv2 server for PostgresDB focused on seamless data exploration with LLMs"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
